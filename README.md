@@ -1,6 +1,4 @@
 
-![Data Analysis Image](https://github.com/user-attachments/assets/7ef9174e-9306-44fc-b98e-19283fcda617)
-
 #### Instagram Ads Performance Data Cleaning Exercise
 
 Cleaning data with SQL is something I am new to, so I decided to try developing my SQL skills.
